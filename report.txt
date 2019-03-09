@@ -1,0 +1,16 @@
+# Instruction of git commands that i use to in cv assignments
+
+1  First, I made a new repository on git hub named mad-314-1897126 then i copied the url for clone.
+
+2  then i 'cd' command to change my directory
+
+3  I used  command  'git init' command to  creates an empty Git repository.
+
+4  I used  'git add' command to add my cv and instruction.
+
+5  After that i used 'git commit-m' command to save file in local repository
+
+6  'git status' - to check stauts
+
+7  'git push origin' to upload file in git  hub account
+
